@@ -1,4 +1,5 @@
 # grunt-datauri
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/johan-olsson/grunt-datauri?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > create base64 encoded data-uris for css from images
 
